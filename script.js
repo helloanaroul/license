@@ -1,3 +1,4 @@
+
 !function () {
     var DB = "https://microsax-db-default-rtdb.firebaseio.com";
     var CACHE = "bls_";
